@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ListView</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="articulos_">
+        <item>Portatil</item>
+        <item>CPU</item>
+        <item>USB</item>
+        <item>Teclado</item>
+    </string-array>
+
+</resources>
